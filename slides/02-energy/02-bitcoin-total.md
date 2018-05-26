@@ -21,4 +21,4 @@ Bitcoin's electricity consumption as a percentage of the world's electricity con
 Annual carbon footprint (kt of CO2) | 33,436
 Carbon footprint per transaction (kg of CO2) | 464.43
 
-More: https://digiconomist.net/bitcoin-energy-consumption
+More: <a href="https://digiconomist.net/bitcoin-energy-consumption" target="_blank">https://digiconomist.net/bitcoin-energy-consumption</a> 
