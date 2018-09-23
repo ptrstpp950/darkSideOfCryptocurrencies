@@ -1,4 +1,4 @@
-## #2 - What uses more energy?
+## #6 - What uses more energy?
 
 ![](./resources/img/tesla.jpg)
 

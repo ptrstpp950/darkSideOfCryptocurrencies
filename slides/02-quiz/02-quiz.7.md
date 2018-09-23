@@ -1,4 +1,4 @@
-## #2 - What uses more energy?
+## #7 - What uses more energy?
 
 ![](./resources/img/village.jpeg)
 
